@@ -10,3 +10,5 @@ de.hdodenhof.circleimageview.CircleImageView
 3. Ẩn thanh tiêu đề của Android
 4. Viết chương trình nhập 01 mảng ArrayList kiểu số và in ra Log.d các số nguyên tố có trong mảng.
 5. Viết chương trình nhập số phần tử mảng kiểu số từ View (EditText) và in ra View (TextView) và Toast các số chính phương thông qua nút Button.
+
+![image](https://github.com/user-attachments/assets/48728679-d11a-4b19-9084-0896fea48a3b)
